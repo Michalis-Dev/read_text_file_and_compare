@@ -26,8 +26,6 @@ my_file_data = f.read()
 print(my_file_data)
 f.close()
 '''
-
-
 '''import pandas as pd
 
 def file_to_list(file):
